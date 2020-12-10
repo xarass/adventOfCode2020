@@ -1,5 +1,3 @@
-import "isomorphic-fetch"
-
 class Problem2 {
 
     constructor() {
